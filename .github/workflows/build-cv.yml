@@ -23,4 +23,3 @@ jobs:
         with:
           name: cv-pdf
           path: cv.pdf
-          retention-days: 30
